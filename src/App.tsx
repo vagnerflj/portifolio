@@ -1,5 +1,4 @@
-
-
+import Home from "./pages/Home/Home.tsx";
 
 
 const App = () => {
@@ -7,6 +6,7 @@ const App = () => {
   return (
     <>
       App
+        <Home/>
     </>
   )
 }
