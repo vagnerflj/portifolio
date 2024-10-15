@@ -22,11 +22,10 @@ const Hero = () => {
             padding: "0px",
     }
 
-
     }))
 
     const StyledImg = styled("img")(() => ({
-        width: "75%",
+        width: "90%",
         borderRadius: "50%",
         border: `2px solid ${theme.palette.secondary.main}`,
     }))
